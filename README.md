@@ -1,5 +1,6 @@
 ### Hi there 👋  
-I'm a full-stack software engineer, gamer & cyber security enthusiast with a biology and music background. I love programming in Python 🐍 and JavaScript!
+I'm a full-stack software engineer, gamer & cyber security enthusiast with a biology and music background. 
+I love programming in Python 🐍 and JavaScript!
 <br>
 <br>
 
