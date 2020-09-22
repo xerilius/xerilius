@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hi there 👋  
+I'm a full-stack software engineer, gamer & cyber security enthusiast with a biology and music background. I love programming in Python 🐍 and JavaScript!
 <br>
 <br>
 
-####  <ins>GAME-ON</ins> 
+<ins><b>GAME-ON</b></ins>   
 <sub>Games I'm currently playing:</sub>  
  🎮 `Outward`  
  🎮 `Call of Duty: Warzone`  
