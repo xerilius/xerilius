@@ -8,7 +8,7 @@ I mainly use Python 🐍 and JavaScript!
 <sub>Games I'm currently playing:</sub>  
  🎮 `Outward`  
  🎮 `Call of Duty: Warzone`  
- 🎮 `Animal Crossing: New Horizon`  
+ 🎮 `Animal Crossing: New Horizons`  
 
 <!--
 **xerilius/xerilius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
