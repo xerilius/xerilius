@@ -1,4 +1,12 @@
 ### Hi there 👋
+<br>
+<br>
+
+####  <ins>GAME-ON</ins> 
+<sub>Games I'm currently playing:</sub>  
+ 🎮 `Outward`  
+ 🎮 `Call of Duty: Warzone`  
+ 🎮 `Animal Crossing: New Horizon`  
 
 <!--
 **xerilius/xerilius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
