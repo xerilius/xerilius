@@ -1,4 +1,4 @@
-[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=React,JavaScript,Python)](https://github.com/xerilius)
+[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=React,Python,Javascript)](https://github.com/xerilius)
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Framework&badges=Python,React,JavaScript,TypeScript,jQuery,Flask,Jinja,Express.js,Node.js,Bootstrap)](https://github.com/xerilius)
 
