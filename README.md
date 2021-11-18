@@ -4,7 +4,6 @@
 
 ### Hi there 👋  
 I'm a software engineer, gamer & cyber security enthusiast with a biology and music background.  
-I mainly use Python 🐍 and JavaScript!
 <br>
 <br>
 
