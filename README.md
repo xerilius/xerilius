@@ -1,7 +1,6 @@
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Frameworks&badges=Python,React,JavaScript,TypeScript,jQuery,Flask,Jinja,Express.js,Node.js,Bootstrap)](https://github.com/xerilius)
 
 ### Hi there 👋  
-I'm a software engineer, gamer & cyber security enthusiast with a biology and music background.  
+I'm a frontend developer, gamer & cyber security enthusiast with a biology and music background.  
 <br>
 <br>
 
